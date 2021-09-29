@@ -1,0 +1,6 @@
+
+@squid:S1948")Make "handler" transient or serializable.(Æ¶Ø…
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>squid:S1948"(Make "thread" transient or serializable.(â£Ÿ4
+Bsquid:S1481."+Remove this unused "frames" local variable.(ˆ¥¨è
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Ýûº

@@ -1,0 +1,10 @@
+
+Msquid:S1854b"6Remove this useless assignment to local variable "bn".(Ïƒä
+7squid:S1948"!Make "btns" private or transient.(Ô¸Š*
+>squid:S1481b"'Remove this unused "bn" local variable.(Ïƒä
+Bsquid:S1612;",Replace this lambda with a method reference.(¡î¬
+Hsquid:S1612R",Replace this lambda with a method reference.(øõ¨»ÿÿÿÿÿ
+jsquid:MaximumInheritanceDepth
+"<This class has 6 parents which is greater than 5 authorized.(‘İ´‚üÿÿÿÿ
+=squid:S3864R"!Remove this use of "Stream.peek".(øõ¨»ÿÿÿÿÿ
+7squid:S3864;"!Remove this use of "Stream.peek".(¡î¬

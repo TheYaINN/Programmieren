@@ -1,0 +1,4 @@
+
+Tsquid:S1481"1Remove this unused "sorted_array" local variable.(¨èÑçøÿÿÿÿ8©â›¹Ä-
+csquid:S1854"@Remove this useless assignment to local variable "sorted_array".(¨èÑçøÿÿÿÿ8©â›¹Ä-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨èÑçøÿÿÿÿ8©â›¹Ä-

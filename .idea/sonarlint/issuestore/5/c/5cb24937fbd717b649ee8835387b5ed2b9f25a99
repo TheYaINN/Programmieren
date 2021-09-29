@@ -1,0 +1,45 @@
+
+Fsquid:S2140Ÿ")Use "java.util.Random.nextInt()" instead.(ş£–®şÿÿÿÿ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÑÖŞÿÿÿÿÿ
+fsquid:S1192µ"NDefine a constant instead of duplicating this literal "Der Baum ist " 4 times.(£¨Üò
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øì¬¿øÿÿÿÿ
+P
+squid:S106º"9Replace this use of System.out or System.err by a logger.(£¨Üò
+hsquid:S1192µ"PDefine a constant instead of duplicating this literal " Felder groï¿½." 4 times.(£¨Üò
+P
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(†ú…ú
+P
+squid:S106·"9Replace this use of System.out or System.err by a logger.(£¨Üò
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ˆÀŒ¤
+P
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(£¨Üò
+o
+squid:S135x"YReduce the total number of break and continue statements in this loop to use at most one.(³‰ÊÆ
+rsquid:S3923;"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¯ÏÚ£
+Csquid:S2185Ÿ"&Remove this silly call to "Math.floor"(ş£–®şÿÿÿÿ
+P
+squid:S106½"9Replace this use of System.out or System.err by a logger.(£¨Üò
+P
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ˆÀŒ¤
+P
+squid:S106»"9Replace this use of System.out or System.err by a logger.(†ú…ú
+U
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(õ‚À›
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U
+squid:S106°"9Replace this use of System.out or System.err by a logger.(•¦¶¢şÿÿÿÿ
+Gsquid:S1172"+Remove this unused method parameter "args".(ÆİĞıÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôí+
+u
+squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(ßŞŒıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÍëäùÿÿÿÿ
+osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 145 to the 15 allowed.(ÆİĞıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(êıŠêøÿÿÿÿ
